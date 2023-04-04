@@ -1,2 +1,2 @@
 # cf-proxy-page-func
-Cf反代 patr reader
+Cf反代 replit probe
